@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "name": "mit",
+      "age": "22",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "chiku",
+      "age": "30"
+    },
+    {
+      "name": "jayla",
+      "age": "19",
+      "id": 4
+    }
+  ]
+}
